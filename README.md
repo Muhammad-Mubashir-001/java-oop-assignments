@@ -1,1 +1,1 @@
-This is my first githib repository where i will upload my daily and weekly assignments of OOP(java).
+This is my first github repository where I will upload my daily and weekly assignments of OOP(java).
